@@ -1,0 +1,20 @@
+{
+    "name": "linlic/ccmtvyun",
+    "description":"上海凌立",
+    "type":"1",
+    "require":{
+        "php":">=8.0"
+    },
+    "license":"Apache",
+    "authors": [
+        {
+            "name": "dbag",
+            "email": "9499574@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "linlic\\":"src"
+        }
+    }
+}
