@@ -16,5 +16,10 @@
         "psr-4":{
             "linlic\\":"src"
         }
+    },
+    "extra": {
+        "hyperf": {
+            "config": "linlic\\result\\ConfigProvider"
+        }
     }
 }
